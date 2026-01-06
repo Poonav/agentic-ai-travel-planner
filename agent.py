@@ -8,12 +8,10 @@ def run_travel_agent(user_input):
 
     # 1️⃣ Flight search (FIXED)
     flight_result = flight_search.invoke({
-            "source": user_input["source"][0],
-            "destination": user_input["destination"][0]
-        
+        "source": user_input["source"][0],
+        "destination": user_input["destination"][0]
     })
-    # flight_result is guaranteed to be a dict with a "price" key
-flight_price = flight_result.get("price", 0)
+    flight_price = flight_result.get("price", 0)
 
     # 2️⃣ Hotel recommendation
     hotel_result = hotel_recommendation.invoke({
@@ -35,8 +33,8 @@ flight_price = flight_result.get("price", 0)
 
     # 5️⃣ Budget estimation
     budget_result = budget_estimator.invoke({
-        "flight_price": flight_result["price"],
-        "hotel_price": hotel_result["price"],
+        "flight_price": flight_price,
+        "hotel_price": hotel_result.get("price", 0),
         "days": user_input.get("days", 3)
     })
 
