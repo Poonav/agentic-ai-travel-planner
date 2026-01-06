@@ -29,24 +29,6 @@ Agentic AI Concepts: Multi-step reasoning, tool orchestration
 
 Domain: Travel
 
-- Project Structure
-travel_agent/
-│
-├── app.py                # Streamlit UI
-├── agent.py              # Core agent logic calling tools
-├── tools/                # LangChain tools
-│   ├── flight_tool.py
-│   ├── hotel_tool.py
-│   ├── places_tool.py
-│   ├── weather_tool.py
-│   └── budget_tool.py
-├── data/                 # JSON datasets
-│   ├── flights.json
-│   ├── hotels.json
-│   └── places.json
-├── venv/                 # Python virtual environment
-└── requirements.txt      # Dependencies
-
 - Installation
 
 Clone the repository:
