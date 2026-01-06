@@ -8,10 +8,9 @@ def run_travel_agent(user_input):
 
     # 1️⃣ Flight search (FIXED)
     flight_result = flight_search.invoke({
-        "flight_input": {
             "source": user_input["source"][0],
             "destination": user_input["destination"][0]
-        }
+        
     })
 
     # 2️⃣ Hotel recommendation
