@@ -12,6 +12,8 @@ def run_travel_agent(user_input):
             "destination": user_input["destination"][0]
         
     })
+    # flight_result is guaranteed to be a dict with a "price" key
+flight_price = flight_result.get("price", 0)
 
     # 2️⃣ Hotel recommendation
     hotel_result = hotel_recommendation.invoke({
