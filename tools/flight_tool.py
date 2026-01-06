@@ -2,7 +2,7 @@ import json
 from langchain.tools import tool
 
 @tool
-def flight_search(flight_input: str):
+def flight_search(source: str, destination: str):
     """
     Finds the cheapest flight between two cities.
     Input: {"source": "CityA", "destination": "CityB"}
