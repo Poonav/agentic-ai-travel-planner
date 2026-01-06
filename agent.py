@@ -34,7 +34,7 @@ def run_travel_agent(user_input):
     # 5️⃣ Budget estimation
     budget_result = budget_estimator.invoke({
         "flight_price": flight_result["price"],
-        "hotel_price": hotel_result["price_per_night"],
+        "hotel_price": hotel_result["price"],
         "days": user_input.get("days", 3)
     })
 
