@@ -1,4 +1,4 @@
-- Agentic AI Travel Planner
+- Agentic AI Travel Planner : https://agentic-ai-travel-planner-pk0212.streamlit.app/
 
 An agentic AI-based travel planning assistant built using LangChain tools and Streamlit.
 It autonomously generates trip itineraries by recommending flights, hotels, places to visit, weather info, and budgeting based on user input.
