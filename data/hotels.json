@@ -3,7 +3,7 @@
         "name": "Grand Palace Hotel",
         "city": "Delhi",
         "rating": 4,
-        "price_per_night": 3897,
+        "price": 3897,
         "amenities": [
             "wifi",
             "pool"
@@ -14,7 +14,7 @@
         "name": "Comfort Suites",
         "city": "Delhi",
         "rating": 5,
-        "price_per_night": 3650,
+        "price": 3650,
         "amenities": [
             "gym",
             "breakfast",
@@ -27,7 +27,7 @@
         "name": "Green Leaf Resort",
         "city": "Delhi",
         "rating": 4,
-        "price_per_night": 6123,
+        "price": 6123,
         "amenities": [
             "pool",
             "parking"
@@ -38,7 +38,7 @@
         "name": "Sunrise Hotel",
         "city": "Delhi",
         "rating": 2,
-        "price_per_night": 4783,
+        "price": 4783,
         "amenities": [
             "wifi",
             "parking",
@@ -51,7 +51,7 @@
         "name": "Blue Lagoon Resort",
         "city": "Delhi",
         "rating": 2,
-        "price_per_night": 2743,
+        "price": 2743,
         "amenities": [
             "gym",
             "breakfast"
@@ -62,7 +62,7 @@
         "name": "Green Leaf Resort",
         "city": "Mumbai",
         "rating": 2,
-        "price_per_night": 1471,
+        "price": 1471,
         "amenities": [
             "gym",
             "parking",
@@ -74,7 +74,7 @@
         "name": "Budget Stay Inn",
         "city": "Mumbai",
         "rating": 2,
-        "price_per_night": 2316,
+        "price": 2316,
         "amenities": [
             "pool",
             "breakfast",
@@ -88,7 +88,7 @@
         "name": "Royal Heritage",
         "city": "Mumbai",
         "rating": 2,
-        "price_per_night": 2104,
+        "price": 2104,
         "amenities": [
             "gym",
             "breakfast",
@@ -101,7 +101,7 @@
         "name": "Comfort Suites",
         "city": "Mumbai",
         "rating": 5,
-        "price_per_night": 5787,
+        "price": 5787,
         "amenities": [
             "breakfast",
             "spa",
@@ -114,7 +114,7 @@
         "name": "Budget Stay Inn",
         "city": "Mumbai",
         "rating": 5,
-        "price_per_night": 5536,
+        "price": 5536,
         "amenities": [
             "breakfast",
             "gym",
@@ -127,7 +127,7 @@
         "name": "Comfort Suites",
         "city": "Goa",
         "rating": 5,
-        "price_per_night": 2828,
+        "price": 2828,
         "amenities": [
             "spa",
             "pool",
@@ -140,7 +140,7 @@
         "name": "Green Leaf Resort",
         "city": "Goa",
         "rating": 3,
-        "price_per_night": 2357,
+        "price": 2357,
         "amenities": [
             "spa",
             "gym",
@@ -153,7 +153,7 @@
         "name": "Green Leaf Resort",
         "city": "Goa",
         "rating": 2,
-        "price_per_night": 6259,
+        "price": 6259,
         "amenities": [
             "parking",
             "breakfast",
@@ -166,7 +166,7 @@
         "name": "Royal Heritage",
         "city": "Goa",
         "rating": 5,
-        "price_per_night": 1232,
+        "price": 1232,
         "amenities": [
             "wifi",
             "parking",
@@ -179,7 +179,7 @@
         "name": "Budget Stay Inn",
         "city": "Goa",
         "rating": 4,
-        "price_per_night": 2248,
+        "price": 2248,
         "amenities": [
             "wifi",
             "spa",
@@ -192,7 +192,7 @@
         "name": "Royal Heritage",
         "city": "Bangalore",
         "rating": 3,
-        "price_per_night": 4242,
+        "price": 4242,
         "amenities": [
             "wifi",
             "parking",
@@ -204,7 +204,7 @@
         "name": "Royal Heritage",
         "city": "Bangalore",
         "rating": 4,
-        "price_per_night": 5633,
+        "price": 5633,
         "amenities": [
             "breakfast",
             "wifi"
@@ -215,7 +215,7 @@
         "name": "Green Leaf Resort",
         "city": "Bangalore",
         "rating": 5,
-        "price_per_night": 5018,
+        "price": 5018,
         "amenities": [
             "breakfast",
             "gym"
@@ -226,7 +226,7 @@
         "name": "Grand Palace Hotel",
         "city": "Bangalore",
         "rating": 4,
-        "price_per_night": 6430,
+        "price": 6430,
         "amenities": [
             "parking",
             "spa",
@@ -240,7 +240,7 @@
         "name": "Budget Stay Inn",
         "city": "Bangalore",
         "rating": 2,
-        "price_per_night": 3043,
+        "price": 3043,
         "amenities": [
             "wifi",
             "gym",
@@ -254,7 +254,7 @@
         "name": "Sea View Resort",
         "city": "Chennai",
         "rating": 5,
-        "price_per_night": 6372,
+        "price": 6372,
         "amenities": [
             "spa",
             "parking",
@@ -266,7 +266,7 @@
         "name": "Grand Palace Hotel",
         "city": "Chennai",
         "rating": 4,
-        "price_per_night": 1733,
+        "price": 1733,
         "amenities": [
             "breakfast",
             "spa",
@@ -279,7 +279,7 @@
         "name": "Royal Heritage",
         "city": "Chennai",
         "rating": 5,
-        "price_per_night": 6303,
+        "price": 6303,
         "amenities": [
             "gym",
             "wifi",
@@ -291,7 +291,7 @@
         "name": "Budget Stay Inn",
         "city": "Chennai",
         "rating": 3,
-        "price_per_night": 5112,
+        "price": 5112,
         "amenities": [
             "gym",
             "spa",
@@ -304,7 +304,7 @@
         "name": "Budget Stay Inn",
         "city": "Chennai",
         "rating": 4,
-        "price_per_night": 1312,
+        "price": 1312,
         "amenities": [
             "pool",
             "breakfast",
@@ -316,7 +316,7 @@
         "name": "City Center Hotel",
         "city": "Hyderabad",
         "rating": 5,
-        "price_per_night": 4332,
+        "price": 4332,
         "amenities": [
             "spa",
             "wifi",
@@ -328,7 +328,7 @@
         "name": "Sea View Resort",
         "city": "Hyderabad",
         "rating": 2,
-        "price_per_night": 6370,
+        "price": 6370,
         "amenities": [
             "spa",
             "pool",
@@ -342,7 +342,7 @@
         "name": "Royal Heritage",
         "city": "Hyderabad",
         "rating": 2,
-        "price_per_night": 4802,
+        "price": 4802,
         "amenities": [
             "pool",
             "parking",
@@ -354,7 +354,7 @@
         "name": "Blue Lagoon Resort",
         "city": "Hyderabad",
         "rating": 5,
-        "price_per_night": 5247,
+        "price": 5247,
         "amenities": [
             "wifi",
             "pool",
@@ -367,7 +367,7 @@
         "name": "City Center Hotel",
         "city": "Hyderabad",
         "rating": 3,
-        "price_per_night": 2972,
+        "price": 2972,
         "amenities": [
             "wifi",
             "pool",
@@ -379,7 +379,7 @@
         "name": "Green Leaf Resort",
         "city": "Kolkata",
         "rating": 2,
-        "price_per_night": 3720,
+        "price": 3720,
         "amenities": [
             "wifi",
             "pool",
@@ -391,7 +391,7 @@
         "name": "Budget Stay Inn",
         "city": "Kolkata",
         "rating": 2,
-        "price_per_night": 6481,
+        "price": 6481,
         "amenities": [
             "gym",
             "parking"
@@ -402,7 +402,7 @@
         "name": "Grand Palace Hotel",
         "city": "Kolkata",
         "rating": 3,
-        "price_per_night": 2554,
+        "price": 2554,
         "amenities": [
             "breakfast",
             "wifi",
@@ -416,7 +416,7 @@
         "name": "Grand Palace Hotel",
         "city": "Kolkata",
         "rating": 3,
-        "price_per_night": 3887,
+        "price": 3887,
         "amenities": [
             "parking",
             "spa",
@@ -429,7 +429,7 @@
         "name": "Grand Palace Hotel",
         "city": "Kolkata",
         "rating": 2,
-        "price_per_night": 5932,
+        "price": 5932,
         "amenities": [
             "gym",
             "spa"
@@ -440,7 +440,7 @@
         "name": "Sunrise Hotel",
         "city": "Jaipur",
         "rating": 2,
-        "price_per_night": 5709,
+        "price": 5709,
         "amenities": [
             "breakfast",
             "parking",
@@ -453,7 +453,7 @@
         "name": "Grand Palace Hotel",
         "city": "Jaipur",
         "rating": 4,
-        "price_per_night": 4333,
+        "price": 4333,
         "amenities": [
             "gym",
             "pool"
@@ -464,7 +464,7 @@
         "name": "City Center Hotel",
         "city": "Jaipur",
         "rating": 2,
-        "price_per_night": 3355,
+        "price": 3355,
         "amenities": [
             "pool",
             "spa"
@@ -475,7 +475,7 @@
         "name": "Grand Palace Hotel",
         "city": "Jaipur",
         "rating": 4,
-        "price_per_night": 3293,
+        "price": 3293,
         "amenities": [
             "gym",
             "wifi",
@@ -489,7 +489,7 @@
         "name": "Sea View Resort",
         "city": "Jaipur",
         "rating": 5,
-        "price_per_night": 3673,
+        "price": 3673,
         "amenities": [
             "breakfast",
             "parking",
